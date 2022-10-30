@@ -9,3 +9,9 @@ body {
   background-color: var(--first-color);
   color: var(--fourth-color);
 }
+
+.carousel {
+  position: relative;
+  width: 70%;
+  margin: 0 auto;
+}
